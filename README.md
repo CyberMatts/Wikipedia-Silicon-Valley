@@ -50,6 +50,6 @@ Este projeto é uma página web que apresenta informações sobre a série de co
  <br />
  <sub><b>Mateus Oliveira</b></sub></a> <a href="https://www.dio.me/users/mateussantana" title="Dio-me">🚀</a>
 
-Feito com por Mateus Oliveira 👋🏽 Entre em contato!
+Feito por Mateus Oliveira 👋🏽
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateussdo/)
