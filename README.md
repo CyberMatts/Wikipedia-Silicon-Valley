@@ -4,7 +4,7 @@ Este projeto é uma página web que apresenta informações sobre a série de co
 
 ##
 
-<img align="center" alt="" src="https://ibb.co/0sp0hTT"/>
+<img align="center" alt="" src="https://i.ibb.co/J3WY5VV/f012ccd5-7aa0-420b-8f8d-e0cefd378464.png"/>
 
 ## Estrutura do Projeto
 
