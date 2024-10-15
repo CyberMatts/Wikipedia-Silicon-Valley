@@ -2,9 +2,9 @@
 
 Este projeto é uma página web que apresenta informações sobre a série de comédia _Silicon Valley_. O projeto foi construído utilizando **HTML**, **CSS**, e \*\*
 
-<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
 ##
+
+<img align="center" alt="" src="https://i.postimg.cc/QMxw19Z0/f012ccd5-7aa0-420b-8f8d-e0cefd378464.png"/>
 
 ## Estrutura do Projeto
 
