@@ -1,6 +1,6 @@
 # _Silicon Valley_ - Projeto Web
 
-Este projeto é uma página web que apresenta informações sobre a série de comédia _Silicon Valley_. O projeto foi construído utilizando **HTML**, **CSS**, e \*\*
+Este projeto é uma página web que apresenta informações sobre a série de comédia _Silicon Valley_. O projeto foi construído utilizando **HTML**, **CSS**, **JAVASCRIPT**.
 
 ##
 
