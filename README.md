@@ -6,7 +6,6 @@ Este projeto é uma página web que apresenta informações sobre a série de co
 
 ##
 
-<img align="center" alt="" src="https://i.postimg.cc/QMxw19Z0/f012ccd5-7aa0-420b-8f8d-e0cefd378464.png"/>
 ## Estrutura do Projeto
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> Define a estrutura da página, incluindo títulos, parágrafos, listas e outros elementos que organizam as informações sobre a série.
